@@ -1,2 +1,3 @@
 Cogito ergo sum [Descartes 17??]
 Edo ergo sum
+Exercise: Make some changes
